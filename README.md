@@ -1,6 +1,6 @@
 # Hi, I’m @markkimjr 👋
 
-## I like to code, box, and play basketball 🏀
+## I'm a backend developer, sneakerhead, boxer, and hooper at heart 🏀
 
 ### My goals for this year are to...
 - make meaningful contributions to a backend development team
