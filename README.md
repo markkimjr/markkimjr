@@ -8,7 +8,7 @@
 - learn GraphQL
 
 ### Connect with me:
-[Linkedin](www.linkedin.com/in/markkimjr)
+[Linkedin](https://www.linkedin.com/in/markkimjr)
 
 [Blog](https://www.velog.io/@markkimjr)
 
