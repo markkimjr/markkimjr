@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @markkimjr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m @markkimjr 👋
+
+## I like to code, box, and play basketball 🏀
+
+### My goals for this year are to...
+- make meaningful contributions to a backend development team
+- continue learning and writing code using Django and Flask
+- learn GraphQL
+
+### Connect with me:
+[Linkedin](www.linkedin.com/in/markkimjr)
+
+[Blog](https://www.velog.io/@markkimjr)
 
 <!---
 markkimjr/markkimjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
