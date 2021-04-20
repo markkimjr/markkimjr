@@ -10,7 +10,7 @@
 ### Connect with me:
 [Linkedin](https://www.linkedin.com/in/markkimjr)
 
-[Blog](https://www.velog.io/@markkimjr)
+[Blog](https://velog.io/@markkimjr)
 
 <!---
 markkimjr/markkimjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
