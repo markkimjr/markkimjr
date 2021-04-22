@@ -8,8 +8,6 @@
 - learn GraphQL
 
 ### Connect with me:
-[Linkedin](https://www.linkedin.com/in/markkimjr)
-
 [Blog](https://velog.io/@markkimjr)
 
 <!---
